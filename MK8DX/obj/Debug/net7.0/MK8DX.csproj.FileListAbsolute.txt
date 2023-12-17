@@ -1,0 +1,12 @@
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.csproj.AssemblyReference.cache
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.AssemblyInfoInputs.cache
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.AssemblyInfo.cs
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.csproj.CoreCompileInputs.cache
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\bin\Debug\net7.0\MK8DX.deps.json
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\bin\Debug\net7.0\MK8DX.dll
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\bin\Debug\net7.0\MK8DX.pdb
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.dll
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\refint\MK8DX.dll
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\MK8DX.pdb
+C:\Users\kahlh\source\repos\MK8DXStats\MK8DX\obj\Debug\net7.0\ref\MK8DX.dll
